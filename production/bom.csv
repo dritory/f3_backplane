@@ -1,0 +1,10 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"_8, _7, _6, _5, _4, _3, _2, ",,8,,
+"C1, C2",0805,2,47uF,
+"C10, C16, C30, C36",0805,4,10uF,
+"C11, C15, C17, C20, C31, C34, C35, C37, C4, C40, C41, C43, C44, C45, C46, C5",0603,16,100nF,
+"C12, C18, C19, C3, C32, C33, C38, C39",0805,8,22uF,
+J2,Amphenol_MDT420M01001,1,Bus_M.2_Socket_M,
+"J3, J4",Molex_0877011001,2,SATA_Backplane,
+"R1, R2, R3, R4",2512,4,2R2,
+"U1, U3",TSOT23-8L,2,STEF512,
